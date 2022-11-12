@@ -1,0 +1,19 @@
+body {
+	
+}
+
+.primary-background {
+	background: #2196F3 !important;
+}
+
+.primary-background-card-header {
+	background: #1746A2;
+}
+
+.primary-background-card-body {
+	background: #FFF7E9;
+}
+
+.banner-background {
+	clip-path: polygon(0 0, 100% 0, 100% 30%, 100% 89%, 65% 100%, 33% 94%, 0 96%, 0% 30%);
+}
